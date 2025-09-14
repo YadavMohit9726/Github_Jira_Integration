@@ -1,6 +1,6 @@
 # python3 Github_JIRA_project.py       ---> It will run this program and the flask app
 # If it runs on local OR EC2 then it will create the jira issue via hitting URL: http://<public_ip>:5000/createJira
-# e.g: localhost:5000/createJira (if local)
+# e.g: localhost:5000/createJira(if local)
 
 # This code sample uses the 'requests' library:
 # http://docs.python-requests.org
